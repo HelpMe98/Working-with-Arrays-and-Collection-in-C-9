@@ -1,0 +1,16 @@
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m09-linkedlists\SimulateJourney\bin\Debug\net5.0\SimulateJourney.exe
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m09-linkedlists\SimulateJourney\bin\Debug\net5.0\SimulateJourney.deps.json
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m09-linkedlists\SimulateJourney\bin\Debug\net5.0\SimulateJourney.runtimeconfig.json
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m09-linkedlists\SimulateJourney\bin\Debug\net5.0\SimulateJourney.runtimeconfig.dev.json
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m09-linkedlists\SimulateJourney\bin\Debug\net5.0\SimulateJourney.dll
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m09-linkedlists\SimulateJourney\bin\Debug\net5.0\SimulateJourney.pdb
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m09-linkedlists\SimulateJourney\obj\Debug\net5.0\SimulateJourney.csproj.AssemblyReference.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m09-linkedlists\SimulateJourney\obj\Debug\net5.0\SimulateJourney.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m09-linkedlists\SimulateJourney\obj\Debug\net5.0\SimulateJourney.AssemblyInfoInputs.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m09-linkedlists\SimulateJourney\obj\Debug\net5.0\SimulateJourney.AssemblyInfo.cs
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m09-linkedlists\SimulateJourney\obj\Debug\net5.0\SimulateJourney.csproj.CoreCompileInputs.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m09-linkedlists\SimulateJourney\obj\Debug\net5.0\SimulateJourney.dll
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m09-linkedlists\SimulateJourney\obj\Debug\net5.0\refint\SimulateJourney.dll
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m09-linkedlists\SimulateJourney\obj\Debug\net5.0\SimulateJourney.pdb
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m09-linkedlists\SimulateJourney\obj\Debug\net5.0\SimulateJourney.genruntimeconfig.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m09-linkedlists\SimulateJourney\obj\Debug\net5.0\ref\SimulateJourney.dll

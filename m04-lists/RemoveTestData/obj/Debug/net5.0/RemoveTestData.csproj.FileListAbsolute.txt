@@ -1,0 +1,16 @@
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m04-lists\RemoveTestData\bin\Debug\net5.0\RemoveTestData.exe
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m04-lists\RemoveTestData\bin\Debug\net5.0\RemoveTestData.deps.json
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m04-lists\RemoveTestData\bin\Debug\net5.0\RemoveTestData.runtimeconfig.json
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m04-lists\RemoveTestData\bin\Debug\net5.0\RemoveTestData.runtimeconfig.dev.json
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m04-lists\RemoveTestData\bin\Debug\net5.0\RemoveTestData.dll
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m04-lists\RemoveTestData\bin\Debug\net5.0\RemoveTestData.pdb
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m04-lists\RemoveTestData\obj\Debug\net5.0\RemoveTestData.csproj.AssemblyReference.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m04-lists\RemoveTestData\obj\Debug\net5.0\RemoveTestData.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m04-lists\RemoveTestData\obj\Debug\net5.0\RemoveTestData.AssemblyInfoInputs.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m04-lists\RemoveTestData\obj\Debug\net5.0\RemoveTestData.AssemblyInfo.cs
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m04-lists\RemoveTestData\obj\Debug\net5.0\RemoveTestData.csproj.CoreCompileInputs.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m04-lists\RemoveTestData\obj\Debug\net5.0\RemoveTestData.dll
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m04-lists\RemoveTestData\obj\Debug\net5.0\refint\RemoveTestData.dll
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m04-lists\RemoveTestData\obj\Debug\net5.0\RemoveTestData.pdb
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m04-lists\RemoveTestData\obj\Debug\net5.0\RemoveTestData.genruntimeconfig.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m04-lists\RemoveTestData\obj\Debug\net5.0\ref\RemoveTestData.dll

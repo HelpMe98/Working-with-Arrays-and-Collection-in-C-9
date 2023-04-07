@@ -1,0 +1,16 @@
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m07-multidim\BusTimes\bin\Debug\net5.0\BusTimes.exe
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m07-multidim\BusTimes\bin\Debug\net5.0\BusTimes.deps.json
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m07-multidim\BusTimes\bin\Debug\net5.0\BusTimes.runtimeconfig.json
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m07-multidim\BusTimes\bin\Debug\net5.0\BusTimes.runtimeconfig.dev.json
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m07-multidim\BusTimes\bin\Debug\net5.0\BusTimes.dll
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m07-multidim\BusTimes\bin\Debug\net5.0\BusTimes.pdb
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m07-multidim\BusTimes\obj\Debug\net5.0\BusTimes.csproj.AssemblyReference.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m07-multidim\BusTimes\obj\Debug\net5.0\BusTimes.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m07-multidim\BusTimes\obj\Debug\net5.0\BusTimes.AssemblyInfoInputs.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m07-multidim\BusTimes\obj\Debug\net5.0\BusTimes.AssemblyInfo.cs
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m07-multidim\BusTimes\obj\Debug\net5.0\BusTimes.csproj.CoreCompileInputs.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m07-multidim\BusTimes\obj\Debug\net5.0\BusTimes.dll
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m07-multidim\BusTimes\obj\Debug\net5.0\refint\BusTimes.dll
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m07-multidim\BusTimes\obj\Debug\net5.0\BusTimes.pdb
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m07-multidim\BusTimes\obj\Debug\net5.0\BusTimes.genruntimeconfig.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m07-multidim\BusTimes\obj\Debug\net5.0\ref\BusTimes.dll

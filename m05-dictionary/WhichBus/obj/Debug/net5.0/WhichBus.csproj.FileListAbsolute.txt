@@ -1,0 +1,16 @@
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m05-dictionary\WhichBus\bin\Debug\net5.0\WhichBus.exe
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m05-dictionary\WhichBus\bin\Debug\net5.0\WhichBus.deps.json
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m05-dictionary\WhichBus\bin\Debug\net5.0\WhichBus.runtimeconfig.json
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m05-dictionary\WhichBus\bin\Debug\net5.0\WhichBus.runtimeconfig.dev.json
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m05-dictionary\WhichBus\bin\Debug\net5.0\WhichBus.dll
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m05-dictionary\WhichBus\bin\Debug\net5.0\WhichBus.pdb
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m05-dictionary\WhichBus\obj\Debug\net5.0\WhichBus.csproj.AssemblyReference.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m05-dictionary\WhichBus\obj\Debug\net5.0\WhichBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m05-dictionary\WhichBus\obj\Debug\net5.0\WhichBus.AssemblyInfoInputs.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m05-dictionary\WhichBus\obj\Debug\net5.0\WhichBus.AssemblyInfo.cs
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m05-dictionary\WhichBus\obj\Debug\net5.0\WhichBus.csproj.CoreCompileInputs.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m05-dictionary\WhichBus\obj\Debug\net5.0\WhichBus.dll
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m05-dictionary\WhichBus\obj\Debug\net5.0\refint\WhichBus.dll
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m05-dictionary\WhichBus\obj\Debug\net5.0\WhichBus.pdb
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m05-dictionary\WhichBus\obj\Debug\net5.0\WhichBus.genruntimeconfig.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m05-dictionary\WhichBus\obj\Debug\net5.0\ref\WhichBus.dll

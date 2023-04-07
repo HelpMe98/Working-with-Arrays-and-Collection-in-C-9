@@ -1,0 +1,16 @@
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m02-arrays\DisplayRoutes\bin\Debug\net5.0\DisplayRoutes.exe
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m02-arrays\DisplayRoutes\bin\Debug\net5.0\DisplayRoutes.deps.json
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m02-arrays\DisplayRoutes\bin\Debug\net5.0\DisplayRoutes.runtimeconfig.json
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m02-arrays\DisplayRoutes\bin\Debug\net5.0\DisplayRoutes.runtimeconfig.dev.json
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m02-arrays\DisplayRoutes\bin\Debug\net5.0\DisplayRoutes.dll
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m02-arrays\DisplayRoutes\bin\Debug\net5.0\DisplayRoutes.pdb
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m02-arrays\DisplayRoutes\obj\Debug\net5.0\DisplayRoutes.csproj.AssemblyReference.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m02-arrays\DisplayRoutes\obj\Debug\net5.0\DisplayRoutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m02-arrays\DisplayRoutes\obj\Debug\net5.0\DisplayRoutes.AssemblyInfoInputs.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m02-arrays\DisplayRoutes\obj\Debug\net5.0\DisplayRoutes.AssemblyInfo.cs
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m02-arrays\DisplayRoutes\obj\Debug\net5.0\DisplayRoutes.csproj.CoreCompileInputs.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m02-arrays\DisplayRoutes\obj\Debug\net5.0\DisplayRoutes.dll
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m02-arrays\DisplayRoutes\obj\Debug\net5.0\refint\DisplayRoutes.dll
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m02-arrays\DisplayRoutes\obj\Debug\net5.0\DisplayRoutes.pdb
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m02-arrays\DisplayRoutes\obj\Debug\net5.0\DisplayRoutes.genruntimeconfig.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m02-arrays\DisplayRoutes\obj\Debug\net5.0\ref\DisplayRoutes.dll

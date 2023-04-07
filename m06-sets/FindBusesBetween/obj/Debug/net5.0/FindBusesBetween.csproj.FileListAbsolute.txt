@@ -1,0 +1,16 @@
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m06-sets\FindBusesBetween\bin\Debug\net5.0\FindBusesBetween.exe
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m06-sets\FindBusesBetween\bin\Debug\net5.0\FindBusesBetween.deps.json
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m06-sets\FindBusesBetween\bin\Debug\net5.0\FindBusesBetween.runtimeconfig.json
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m06-sets\FindBusesBetween\bin\Debug\net5.0\FindBusesBetween.runtimeconfig.dev.json
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m06-sets\FindBusesBetween\bin\Debug\net5.0\FindBusesBetween.dll
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m06-sets\FindBusesBetween\bin\Debug\net5.0\FindBusesBetween.pdb
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m06-sets\FindBusesBetween\obj\Debug\net5.0\FindBusesBetween.csproj.AssemblyReference.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m06-sets\FindBusesBetween\obj\Debug\net5.0\FindBusesBetween.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m06-sets\FindBusesBetween\obj\Debug\net5.0\FindBusesBetween.AssemblyInfoInputs.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m06-sets\FindBusesBetween\obj\Debug\net5.0\FindBusesBetween.AssemblyInfo.cs
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m06-sets\FindBusesBetween\obj\Debug\net5.0\FindBusesBetween.csproj.CoreCompileInputs.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m06-sets\FindBusesBetween\obj\Debug\net5.0\FindBusesBetween.dll
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m06-sets\FindBusesBetween\obj\Debug\net5.0\refint\FindBusesBetween.dll
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m06-sets\FindBusesBetween\obj\Debug\net5.0\FindBusesBetween.pdb
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m06-sets\FindBusesBetween\obj\Debug\net5.0\FindBusesBetween.genruntimeconfig.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m06-sets\FindBusesBetween\obj\Debug\net5.0\ref\FindBusesBetween.dll

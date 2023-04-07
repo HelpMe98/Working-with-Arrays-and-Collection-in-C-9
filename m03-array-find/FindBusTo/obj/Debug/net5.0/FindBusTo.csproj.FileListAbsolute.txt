@@ -1,0 +1,16 @@
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m03-array-find\FindBusTo\bin\Debug\net5.0\FindBusTo.exe
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m03-array-find\FindBusTo\bin\Debug\net5.0\FindBusTo.deps.json
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m03-array-find\FindBusTo\bin\Debug\net5.0\FindBusTo.runtimeconfig.json
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m03-array-find\FindBusTo\bin\Debug\net5.0\FindBusTo.runtimeconfig.dev.json
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m03-array-find\FindBusTo\bin\Debug\net5.0\FindBusTo.dll
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m03-array-find\FindBusTo\bin\Debug\net5.0\FindBusTo.pdb
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m03-array-find\FindBusTo\obj\Debug\net5.0\FindBusTo.csproj.AssemblyReference.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m03-array-find\FindBusTo\obj\Debug\net5.0\FindBusTo.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m03-array-find\FindBusTo\obj\Debug\net5.0\FindBusTo.AssemblyInfoInputs.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m03-array-find\FindBusTo\obj\Debug\net5.0\FindBusTo.AssemblyInfo.cs
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m03-array-find\FindBusTo\obj\Debug\net5.0\FindBusTo.csproj.CoreCompileInputs.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m03-array-find\FindBusTo\obj\Debug\net5.0\FindBusTo.dll
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m03-array-find\FindBusTo\obj\Debug\net5.0\refint\FindBusTo.dll
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m03-array-find\FindBusTo\obj\Debug\net5.0\FindBusTo.pdb
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m03-array-find\FindBusTo\obj\Debug\net5.0\FindBusTo.genruntimeconfig.cache
+D:\workspaces\lab\csharp\Working with Arrays and Collection in C# 9\m03-array-find\FindBusTo\obj\Debug\net5.0\ref\FindBusTo.dll
